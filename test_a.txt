@@ -2,3 +2,4 @@ this is test A.
 add test.;
 reset test.
 diff test.
+log test.
